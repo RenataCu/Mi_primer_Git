@@ -1,7 +1,7 @@
 # Hola
 # Pasos para subir mi proyecto a Github
 
-1. Git init
+1. Git init (Unica vez)
 2. Trabajamos en el proyecto (agregamos archivos etc)
 3. git add . (con el . agreagamos TODOS los archivos)
 4. git commit -m "mensaje" (Para confirmar los cambios)
