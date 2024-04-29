@@ -7,11 +7,13 @@
 4. git commit -m "mensaje" (Para confirmar los cambios)
 
 Si no tengo repositorio remoto...
-5.Creamos el repositorio en github
+
+5. Creamos el repositorio en github
 6. Seguimos los pasos desde git branch -M main
 7. git remote add origin link de repo
-8- git push -u origin main
+8. git push -u origin main
 
 
 Si tengo repositorio y ya tengo subido un proyecto ahí...
-9.git push
+
+9. git push
